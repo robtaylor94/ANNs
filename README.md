@@ -1,1 +1,3 @@
-An ANN pipeline that provides accurate binary classifications of unseen input images that contain either chips or rice. The datset used for experimentation in this notebook has been retrieved from the mlend python library that was curated by students and associated faculty of the QMUL EECS Introduction to Machine Learning class of late 2023.<br>
+Various AI pipelines.
+
+MobilenetV2: Provides accurate binary classifications of unseen input images that contain either chips or rice.
